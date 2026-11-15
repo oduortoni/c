@@ -56,3 +56,4 @@ dkms.conf
 sandbox/
 *.c.swp
 *.h.swp
+bin/
