@@ -54,6 +54,5 @@ dkms.conf
 # debug information files
 *.dwo
 sandbox/
-*.c.swp
-*.h.swp
+*.swp
 bin/
